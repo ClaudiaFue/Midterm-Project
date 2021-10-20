@@ -15,6 +15,11 @@ This is for the 1000 INFOTC Class
 * Maryland. 
 Its also possible that there are more _unknown relatives_ as well because I only know some relatives from Texas and from Tennessee.
 
+## **Pets**
+> For pets I have in total 6 dogs and 1 guinea pig.  There are 3 female dogs and 3 male dogs and the guinea pig is a female as well. 
+
+
+
 # Education
 > Currently I am a freshman in the _[University of Missouri-Columbia](https://missouri.edu)_ but I am studying to earn a **Bachelors Degree** in Information Technology with the pathway of Engineering.
 > I have graduated from _[Van Horn High School](https://sites.isdschools.org/vanhorn)_ on May 2021 in **Independence,MO**
@@ -107,10 +112,5 @@ def main():
 
 main()
     
-    
-
-
-* Links between the markdown pages.
 * One or more images that are hosted in the GitHub repo.
 * One or more images that are hosted elsewhere on the web.
-* A block of code.
