@@ -20,12 +20,12 @@ Its also possible that there are more _unknown relatives_ as well because I only
 > I have graduated from _[Van Horn High School](https://sites.isdschools.org/vanhorn)_ on May 2021 in **Independence,MO**
 
 ## Code Projects
-This is a code made as a challenge in one of my INFOTC Classes in College
-> What it does is to calculate the volume of a cylinder and also can calculate how much paint is needed to cover the cylinder.
+> This is a code made as a challenge in one of my INFOTC Classes in College
+### What it does is to calculate the volume of a cylinder and also can calculate how much paint is needed to cover the cylinder.
 
-from math import pi
-import math
-#Surface area is2(pi)rh + 2(pi)r^2
+> from math import pi
+> import math
+> #Surface area is2(pi)rh + 2(pi)r^2
 
 def get_radius():
     while True:
