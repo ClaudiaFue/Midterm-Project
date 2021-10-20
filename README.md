@@ -6,27 +6,19 @@ This is for the 1000 INFOTC Class
 
 ## A little bit about me
 
-**Personal Life:** I live with my mom and dad and my little sister. I also have an older sister who is married and with a child. My family is actually really big if you count all of the relatives from the other states like:
+**Personal Life:** 
+> I live with my mom and dad and my little sister. I also have an older sister who is married and with a child. My family is actually really big if you count all of the relatives from the other states like:
 * Texas
 * Tennessee
 * Virginia
-* Maryland. Its also possible that there are more unknown relatives as well because I only know some relatives from Texas and from Tennessee.
+* Maryland. 
+Its also possible that there are more _unknown relatives_ as well because I only know some relatives from Texas and from Tennessee.
 
-**Requirements:**
+# Education
+> Currently I am a freshman in the [University of Missouri-Columbia](https://missouri.edu) but I am studying to earn a **Bachelors Degree** in Information Technology > with the pathway of Engineering.
 
-This project is to be managed in a public GitHub repository. Submit the Clone with HTTPS URL for the repository that contains the personal site.
-
-The README.md is to serve as the [home page](https://en.wikipedia.org/wiki/Home_page) for your personal site on GitHub. Other markdown pages are to be linked to from the README.md. Provide navigation forward and backward when linking between markdown documents. Also, if useful, create links to navigate within a markdown document.
-
-The information that you present on the markdown pages is up to you. But, it must meet the following requirements. The site must have a minimum of five markdown pages and contain the following somewhere on the pages.
-
-* Paragraphs.
-* Headers.
 * Links between the markdown pages.
 * Links to other web sites.
 * One or more images that are hosted in the GitHub repo.
 * One or more images that are hosted elsewhere on the web.
-* A list.
-* Some text that is bolded.
-* Some text that is italicized.
 * A block of code.
