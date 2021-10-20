@@ -4,11 +4,13 @@ This is for the 1000 INFOTC Class
 ## This is the MidTerm Project
 **Introduction:** My name is Claudia Fuentes but my full name goes as Claudia Y. S. Fuentes
 
-## Final Project
+## A little bit about me
 
-**Description:** Create a personal site in markdown that is hosted on GitHub and provides information about you.
-
-**Purpose:** This project provides experience working with markdown, Git/GitHub, and IT-related concepts and knowledge.
+**Personal Life:** I live with my mom and dad and my little sister. I also have an older sister who is married and with a child. My family is actually really big if you count all of the relatives from the other states like:
+* Texas
+* Tennessee
+* Virginia
+* Maryland. Its also possible that there are more unknown relatives as well because I only know some relatives from Texas and from Tennessee.
 
 **Requirements:**
 
