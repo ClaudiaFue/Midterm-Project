@@ -26,7 +26,8 @@ Its also possible that there are more _unknown relatives_ as well because I only
 * Mar
 * Blue
 * LeLe(_Guinea Pig_)
-
+[Black Guinea Pig]
+[Black](https://petsvills.com/names-for-black-guinea-pigs/)
 
 
 # Education
