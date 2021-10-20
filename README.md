@@ -16,7 +16,16 @@ This is for the 1000 INFOTC Class
 Its also possible that there are more _unknown relatives_ as well because I only know some relatives from Texas and from Tennessee.
 
 ## **Pets**
-> For pets I have in total 6 dogs and 1 guinea pig.  There are 3 female dogs and 3 male dogs and the guinea pig is a female as well. 
+> For pets I have in total 6 dogs and 1 guinea pig.  
+> There are 3 female dogs and 3 male dogs and the guinea pig is a female as well. 
+> Their names are:
+* Fee Fee
+* Justin
+* Luna
+* Jesse(_male_)
+* Mar
+* Blue
+* LeLe(_Guinea Pig_)
 
 
 
